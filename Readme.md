@@ -190,7 +190,7 @@ If `risk_model.pkl` is missing or cannot be loaded, the dashboard falls back to 
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <github.com/Qaleelsha/SmartCampus-AI.git>
 cd SmartCampus-AI
 ```
 
